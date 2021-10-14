@@ -1,0 +1,17 @@
+body{
+    width: 300px;
+    height: 300px;
+    background-image: linear-gradient(to bottom right, rgb(191, 236, 250), rgb(248, 194, 248));
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 2px solid #fff;
+    padding: 10px;
+}
